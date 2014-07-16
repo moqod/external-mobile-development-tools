@@ -10,7 +10,7 @@ Image size, text, text color and background color are subject to change – they
 Sample image URL: http://dummyimage.com/400x150/000/fff.png?text=hello,%20world!<br />
 Sample image:<br />![Image](http://dummyimage.com/400x150/000/fff.png?text=hello,%20world!)
 
-## Updraft - Continious Integration
+## Updraft - Continuous Integration
 TBD
 
 ## Localization
