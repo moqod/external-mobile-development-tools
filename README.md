@@ -11,7 +11,10 @@ Sample image URL: http://dummyimage.com/400x150/000/fff.png?text=hello,%20world!
 Sample image:<br />![Image](http://dummyimage.com/400x150/000/fff.png?text=hello,%20world!)
 
 ## Updraft - Continuous Integration
-TBD
+URL: https://getupdraft.com<br />
+Updraft is the ultimate app delivery tool created by Moqod. It is intended to help developers compile and distribute builds to customers in no time. Updraft is an example of Cloud CI tailored for mobile projects.<br />
+Using Updraft it's easy to create different build configurations - e.g. debug and release based on different targets, Xcode project files or repository branches. So it's not only a beta-testing tool, but also a platform for A/B testing.<br />
+
 
 ## Localization
 TBD
