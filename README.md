@@ -15,6 +15,10 @@ URL: https://getupdraft.com<br />
 Updraft is the ultimate app delivery tool created by Moqod. It is intended to help developers compile and distribute builds to customers in no time. Updraft is an example of Cloud CI tailored for mobile projects.<br />
 Using Updraft it's easy to create different build configurations - e.g. debug and release based on different targets, Xcode project files or repository branches. So it's not only a beta-testing tool, but also a platform for A/B testing.<br />
 
+##Hurl.it
+URL: http://www.hurl.it
+
+A handy tool to test out network requests and see response. Supports most HTTP formats and multiple Authentication protocols.
 
 ## Localization
 TBD
